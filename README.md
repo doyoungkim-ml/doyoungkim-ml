@@ -8,4 +8,4 @@ I am a M.S. student studying LLM at the Language & Knowledge Lab at [KAIST AI](h
         
         (2) Making LLM a general planner.
 
-Feel free to contact me via email if you have any questions!
+Feel free to contact me via email if you have any question!
