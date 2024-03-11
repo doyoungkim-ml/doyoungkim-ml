@@ -6,6 +6,6 @@ My lifelong research goal is to solve undiscovered problems beyond the spatiotem
 
 (1) Exploring a better alternative to current NTP supervision for Language Modeling
         
-(2) Making LLM a general planner.
+(2) Making LLM a general planner
 
 Feel free to contact me via email if you have any questions!
