@@ -1,4 +1,4 @@
-Hi, I am an MS student studying AI. I am a member of Language & Knowledge Lab at [KAIST AI](https://github.com/kaistAI/), advised by [Minjoon Seo](https://seominjoon.github.io/). Before studying language models, I completed my BS in Mathematics & Computer Science(double major) at KAIST.
+Hi, I am an MS student studying AI. I am a member of Language & Knowledge Lab at [KAIST AI](https://github.com/kaistAI/), advised by [Minjoon Seo](https://seominjoon.github.io/). Before studying AI, I completed my BS in Mathematics & Computer Science(double major) at KAIST.
         
 Despite the massive corpus of data on which modern AI systems are trained, they still struggle with tasks that humans, even young children, can easily perform. I believe that by incorporating key aspects of human cognitive processes, we can create AI systems capable of robust decision-making. My research focuses on narrowing the gap between human and artificial intelligence in complex scenarios. Specifically, I aim to tackle two key challenges:
 
